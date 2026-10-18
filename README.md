@@ -1,4 +1,4 @@
-⁷# Evilpeepz-Official
+⁷# Evilpeepz
 Centralized brand identity assets and media resources for evilpeepz_official.
 # ⚡ EVILPEEPZ OFFICIAL
 
