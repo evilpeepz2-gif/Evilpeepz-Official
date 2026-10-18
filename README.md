@@ -39,3 +39,4 @@ Stay tuned for upcoming drops and brand expansions.
 * **Brand:** EVILPEEPZ OFFICIAL
 * **Focus:** Streetwear & High-Performance Gym Gear
 ipconfig /flushdns
+New plugin under v3/plugins/ or v3/@claude-flow/plugin-*
