@@ -1,4 +1,4 @@
-# Evilpeepz-Official
+⁷# Evilpeepz-Official
 Centralized brand identity assets and media resources for evilpeepz_official.
 # ⚡ EVILPEEPZ OFFICIAL
 
@@ -38,3 +38,4 @@ Stay tuned for upcoming drops and brand expansions.
 
 * **Brand:** EVILPEEPZ OFFICIAL
 * **Focus:** Streetwear & High-Performance Gym Gear
+ipconfig /flushdns
