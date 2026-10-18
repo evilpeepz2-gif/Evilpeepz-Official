@@ -1,4 +1,4 @@
-⁷# Evilpeepz
+# Evilpeepz
 Centralized brand identity assets and media resources for evilpeepz_official.
 # ⚡ EVILPEEPZ OFFICIAL
 
@@ -40,3 +40,4 @@ Stay tuned for upcoming drops and brand expansions.
 * **Focus:** Streetwear & High-Performance Gym Gear
 ipconfig /flushdns
 New plugin under v3/plugins/ or v3/@claude-flow/plugin-*
+13a6abc8daa625d712d38afc5b24e88ee54ce5c5
